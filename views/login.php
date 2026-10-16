@@ -28,7 +28,7 @@ $message = take_flash();
             <div class="story-image" role="img" aria-label="A car ready for the open road"></div>
         </section>
         <section class="login-panel">
-            <div class="login-panel-top"><span class="eyebrow">OPERATIONS PORTAL</span><a href="setup.php">First visit? Set up your account <span aria-hidden="true">↗</span></a></div>
+            <div class="login-panel-top"><span class="eyebrow">OPERATIONS PORTAL</span></div>
             <div class="login-form-wrap">
                 <span class="eyebrow">GOOD TO SEE YOU</span>
                 <h2>Welcome back.</h2>
